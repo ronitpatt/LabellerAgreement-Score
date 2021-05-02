@@ -1,2 +1,2 @@
 # LabellerAgreement-Score
-Calculates Fleiss Kappa score of various coded videos from various labels. 
+Calculates Fleiss Kappa (Labeller Agreement) score of IVBSS coded videos from various labellerss. 
