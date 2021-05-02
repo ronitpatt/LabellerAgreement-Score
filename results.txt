@@ -1,0 +1,80 @@
+Label: ObjHandLeft
+Percent Overall Agreement: 0.9003
+Overall Fleiss Kappa Score: 0.8385
+Perfect agreement by Landis & Koch(1997)
+
+Fleiss_Kappa	Std_Error	Confidence_Interval		z		p_value
+8.384652e-01	4.356151e-03	8.362003e-01	8.407302e-01	1.924785e+02	0
+
+Reject null hypothesis: Observed agreement is not accidental
+
+Label: ObjHandRight
+Percent Overall Agreement: 0.8994
+Overall Fleiss Kappa Score: 0.8313
+Perfect agreement by Landis & Koch(1997)
+
+Fleiss_Kappa	Std_Error	Confidence_Interval		z		p_value
+8.313440e-01	4.053806e-03	8.292363e-01	8.334517e-01	2.050774e+02	0
+
+Reject null hypothesis: Observed agreement is not accidental
+
+Label: Manipulation
+Percent Overall Agreement: 0.8834
+Overall Fleiss Kappa Score: 0.8203
+Perfect agreement by Landis & Koch(1997)
+
+Fleiss_Kappa	Std_Error	Confidence_Interval		z		p_value
+8.203406e-01	4.381080e-03	8.180627e-01	8.226185e-01	1.872462e+02	0
+
+Reject null hypothesis: Observed agreement is not accidental
+
+Label: State
+Percent Overall Agreement: 0.8527
+Overall Fleiss Kappa Score: 0.7530
+Substantial agreement by Landis & Koch(1997)
+
+Fleiss_Kappa	Std_Error	Confidence_Interval		z		p_value
+7.529568e-01	4.727085e-03	7.504990e-01	7.554146e-01	1.592857e+02	0
+
+Reject null hypothesis: Observed agreement is not accidental
+
+Label: Occlusion
+Percent Overall Agreement: 0.9736
+Overall Fleiss Kappa Score: 0.9459
+Perfect agreement by Landis & Koch(1997)
+
+Fleiss_Kappa	Std_Error	Confidence_Interval		z		p_value
+9.459257e-01	6.159336e-03	9.427232e-01	9.491282e-01	1.535759e+02	0
+
+Reject null hypothesis: Observed agreement is not accidental
+
+Label: HeadTilt
+Percent Overall Agreement: 0.8599
+Overall Fleiss Kappa Score: 0.6646
+Substantial agreement by Landis & Koch(1997)
+
+Fleiss_Kappa	Std_Error	Confidence_Interval		z		p_value
+6.645680e-01	4.771201e-03	6.620872e-01	6.670487e-01	1.392874e+02	0
+
+Reject null hypothesis: Observed agreement is not accidental
+
+Label: HeadPan
+Percent Overall Agreement: 0.8398
+Overall Fleiss Kappa Score: 0.5079
+Moderate agreement by Landis & Koch(1997)
+
+Fleiss_Kappa	Std_Error	Confidence_Interval		z		p_value
+5.079216e-01	4.202716e-03	5.057365e-01	5.101068e-01	1.208556e+02	0
+
+Reject null hypothesis: Observed agreement is not accidental
+
+Label: Gaze
+Percent Overall Agreement: 0.8659
+Overall Fleiss Kappa Score: 0.7863
+Substantial agreement by Landis & Koch(1997)
+
+Fleiss_Kappa	Std_Error	Confidence_Interval		z		p_value
+7.862662e-01	3.408785e-03	7.844939e-01	7.880386e-01	2.306588e+02	0
+
+Reject null hypothesis: Observed agreement is not accidental
+
